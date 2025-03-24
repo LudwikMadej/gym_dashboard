@@ -5,8 +5,10 @@ This dashboard was created as project required to complete ***Data Visualization
  - Ludwik Madej
  - Maxim Ryazantcev [https://github.com/kapitan05]
  - Yahor Lahunovich [https://github.com/yahorlahunovich]
+
 **Preview Link:** [https://yahorlahunovich.shinyapps.io/Workout-Analysis/](https://yahorlahunovich.shinyapps.io/Workout-Analysis/)
-**Introductional Video:** [https://drive.google.com/file/d/1j-PoSBS-tVfKsv_ACUb8uGM1OElrSpZz/view?usp=sharing]
+
+**Introductory Video:** [https://drive.google.com/file/d/1j-PoSBS-tVfKsv_ACUb8uGM1OElrSpZz/view?usp=sharing]
 
 ## Structure
 ### Page 1
@@ -17,7 +19,7 @@ On the first page, users can compare our training methods and gym performance. T
 ![image](https://github.com/user-attachments/assets/833089f5-e8b4-4c79-b5e7-a99b3deea239)
 
 ### Page 2
-This page focuses on inividual performance, additionally showing consumption data. Consumption consists of 4 main categories: coffe, tea, water and other (juices, soda, alcohol etc.)
+This page focuses on individual performance and additionally displays consumption data. Consumption is divided into four main categories: coffee, tea, water, and other (including juices, soda, etc.).
 
 ![image](https://github.com/user-attachments/assets/4026e29e-dc0a-4bd6-89a0-dacd0e544911)
 ![image](https://github.com/user-attachments/assets/a0d57812-37f2-4eea-98cf-921abe5e8a44)
